@@ -3,17 +3,13 @@
  * @type {import("../config/siteConfig").UserConfig}
  */
 export default {
-  title: "Henophilia",
+  title: "Luttmissen",
   author: "Henophilia",
   authorUrl: "https://henophilia.org",
-  analytics: "G-FKY5DGPBKZ",
-  description: "Building bridges of pleasure between reality and flourishing.",
-  domain: "https://henophilia.org",
+  description: "Luttmissen.",
+  domain: "https://luttmissen.org",
   navbarTitle: {
-    text: "Henophilia",
-  },
-  socialLinks: {
-    instagram: "https://www.instagram.com/henophilia/",
+    text: "Luttmissen",
   },
   theme: { default: "" },
 };
