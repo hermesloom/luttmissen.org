@@ -1,4 +1,4 @@
-In Luttmissen werden die Dinge so gesagt, wie sie sind.
+[In Luttmissen werden die Dinge so gesagt, wie sie sind.](https://de.wikipedia.org/wiki/Imagismus)
 
 Anschrift:
 
